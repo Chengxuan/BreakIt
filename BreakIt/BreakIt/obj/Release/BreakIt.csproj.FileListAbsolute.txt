@@ -1,0 +1,28 @@
+C:\Users\Cheng\Source\Repos\BreakIt\BreakIt\BreakIt\Bin\Release\ApplicationIcon.png
+C:\Users\Cheng\Source\Repos\BreakIt\BreakIt\BreakIt\Bin\Release\Background.png
+C:\Users\Cheng\Source\Repos\BreakIt\BreakIt\BreakIt\Bin\Release\BreakIt.dll
+C:\Users\Cheng\Source\Repos\BreakIt\BreakIt\BreakIt\Bin\Release\BreakIt.pdb
+C:\Users\Cheng\Source\Repos\BreakIt\BreakIt\BreakIt\Bin\Release\AppManifest.xaml
+C:\Users\Cheng\Source\Repos\BreakIt\BreakIt\BreakIt\Bin\Release\BreakIt.xap
+C:\Users\Cheng\Source\Repos\BreakIt\BreakIt\BreakIt\obj\Release\App.g.cs
+C:\Users\Cheng\Source\Repos\BreakIt\BreakIt\BreakIt\obj\Release\MainPage.g.cs
+C:\Users\Cheng\Source\Repos\BreakIt\BreakIt\BreakIt\obj\Release\PlayPage.g.cs
+C:\Users\Cheng\Source\Repos\BreakIt\BreakIt\BreakIt\obj\Release\BreakIt.g.resources
+C:\Users\Cheng\Source\Repos\BreakIt\BreakIt\BreakIt\obj\Release\BreakIt.dll
+C:\Users\Cheng\Source\Repos\BreakIt\BreakIt\BreakIt\obj\Release\BreakIt.pdb
+C:\Users\Cheng\Source\Repos\BreakIt\BreakIt\BreakIt\obj\Release\XapCacheFile.xml
+C:\Users\Cheng\Source\Repos\BreakIt\BreakIt\BreakIt\obj\Release\BreakIt.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\Bin\Release\ApplicationIcon.png
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\Bin\Release\Background.png
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\Bin\Release\BreakIt.dll
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\Bin\Release\BreakIt.pdb
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\Bin\Release\AppManifest.xaml
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\Bin\Release\BreakIt.xap
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Release\BreakIt.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Release\App.g.cs
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Release\MainPage.g.cs
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Release\PlayPage.g.cs
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Release\BreakIt.g.resources
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Release\BreakIt.dll
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Release\BreakIt.pdb
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Release\XapCacheFile.xml

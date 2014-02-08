@@ -1,0 +1,14 @@
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\Bin\Debug\ApplicationIcon.png
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\Bin\Debug\Background.png
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\Bin\Debug\BreakIt.dll
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\Bin\Debug\BreakIt.pdb
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\Bin\Debug\AppManifest.xaml
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\Bin\Debug\BreakIt.xap
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Debug\BreakIt.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Debug\App.g.cs
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Debug\MainPage.g.cs
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Debug\PlayPage.g.cs
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Debug\BreakIt.g.resources
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Debug\BreakIt.dll
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Debug\BreakIt.pdb
+C:\Users\Cheng\Documents\Visual Studio 2012\Projects\BreakIt\BreakIt\obj\Debug\XapCacheFile.xml
